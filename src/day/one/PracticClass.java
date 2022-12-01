@@ -7,5 +7,6 @@ public class PracticClass {
 	System.out.println("this new code");
 
 	}
-
+public void sum(){
+	
 }
